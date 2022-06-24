@@ -1,1 +1,2 @@
-This is a trial for GIT
+This is a trial for GIT from the local, and it hit the remote repo >>
+i am still trying things from the Git end to see if it hits the local repo >>
